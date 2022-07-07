@@ -1,0 +1,3 @@
+Hello, this is a sample file.
+This file will be updated via scripts later in this challenge.
+Thanks for reading and have a nice day!
